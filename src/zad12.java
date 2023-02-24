@@ -12,4 +12,3 @@ public class zad12 {
         System.out.println("Liczba przejechana na litzre paliwa" + fuelEfficiency);
     }
 }
-h
